@@ -1,1 +1,1 @@
-# Geekbrains advandec java exceptions
+# Geekbrains advanced java exceptions
