@@ -16,7 +16,6 @@ public class Main {
         l2.task4();
 	var tesm1 = "first commit";
 	var tesm1 = "second commit";
-	var tesm1 = "third commit";
     }
 
 
