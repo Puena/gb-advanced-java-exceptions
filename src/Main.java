@@ -7,8 +7,6 @@ import java.util.Arrays;
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
     public static void main(String[] args) {
-        var l1 = new Lesson1();
-        l1.task();
         var l2 = new Lesson2();
         l2.task1();
         l2.task2();
